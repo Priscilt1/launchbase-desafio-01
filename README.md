@@ -1,4 +1,4 @@
-#  Desafios Módulo 1 - Introdução a Programação WEB 
+#  Desafios Módulo 1 - Introdução a Programação WEB - Cálculo de IMC e de aposentadoria
 Dois primeiros desafios do modulo1 do bootcamp lauchbase - Rocketseat, tendo como objetivo fortalecer conceitos, entre eles: 
 Variáveis;
 Condicionais;
@@ -8,4 +8,4 @@ Operadores.
 Cálculo de IMC
 
 2ºDesafio:
-Calculo de aposentadoria
+Cálculo de aposentadoria
